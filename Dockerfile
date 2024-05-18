@@ -1,6 +1,7 @@
 using Node v10
 FROM node:10
 
+# escape=`
 # Create app directory
 WORKDIR /usr/src/lafs
 
